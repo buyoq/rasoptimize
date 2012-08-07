@@ -1,10 +1,10 @@
 rasoptimize
 ===========
 
-RasOptimize : Raspbian Raspberry PI Optimization Script
-Fitri Ghani http://www.fitrighani.info emorawksATgmailDOTcom
-This script will install,remove & optimize your device for reduced memory usage
-Use at YOUR OWN RISK !
+RasOptimize : Raspbian Raspberry PI Optimization Script <br>
+Fitri Ghani http://www.fitrighani.info emorawksATgmailDOTcom <br>
+This script will install,remove & optimize your device for reduced memory usage<br>
+Use at YOUR OWN RISK !<br>
 Kindly please use ONLY on a fresh install of Raspbian-wheezy
 
 Installation :
